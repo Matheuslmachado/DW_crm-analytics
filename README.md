@@ -21,14 +21,18 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
 <b></b>
 
 
-1.Tabela dim_customers_gold: Uma visão 360º de cada usuário único. Deve conter:
+1. **Tabela dim_customers_gold**: Uma visão 360º de cada usuário único. Deve conter:
 -  Dados demográficos limpos.
 - Segmentação de valor (RFM - Recência, Frequência, Valor Monetário).
 - Status do cliente (Novo, Ativo, Churn, Recuperado).
-2. Tabela fct_sales_performance: Uma tabela de fatos de vendas otimizada.
+2. **Tabela fct_sales_performance**: Uma tabela de fatos de vendas otimizada.
 - Cálculo de ticket médio.
 - Métricas de tempo (dias entre pedido e envio).
 - Séries temporais (Vendas YoY e MoM).
-3. Relatório Diagnóstico: Uma análise final respondendo:
+3. **Relatório Diagnóstico**: Uma análise final respondendo:
 
   > "Onde estamos perdendo dinheiro e onde estão as oportunidades ocultas?"
+
+## Relatório Diagnostico: Principais Insights
+### Desempenho Anual (2019-2026)
+> **Recomendação:**
