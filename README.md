@@ -14,7 +14,9 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
 
 ## Solução Técnica
 
-> **Stack**: Google BigQuery (Standard SQL).
+> **Stack**:
+> - SQL
+> - Google BigQuery (Standard SQL). 
 
 <img width="786" height="253" alt="Image" src="https://github.com/user-attachments/assets/46caad3b-907d-4caa-93f7-d09706c0b853" />
 
@@ -40,6 +42,6 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
 - 78% dos clientes estão atualmente em **Churn**
 - 59% da receita está concentrada em **clientes de alto valor**
 
-Esses resultados indicam oportunidades relacionadas principalmente a retenção de clientes e aumento da recorrência de compras.
+Esses resultados indicam oportunidades relacionadas principalmente a **retenção de clientes e aumento da recorrência de compras.**
 
 
