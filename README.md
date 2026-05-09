@@ -19,7 +19,7 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
 <img width="786" height="253" alt="Image" src="https://github.com/user-attachments/assets/46caad3b-907d-4caa-93f7-d09706c0b853" />
 
 <b></b>
-
+### Modelagem Dimencional
 
 1. **Tabela dim_customers_gold**: Uma visão 360º de cada usuário único. Deve conter:
 -  Dados demográficos limpos.
@@ -34,5 +34,12 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
   > "Onde estamos perdendo dinheiro e onde estão as oportunidades ocultas?"
 
 ## Relatório Diagnostico: Principais Insights
-### Desempenho Anual (2019-2026)
-> **Recomendação:**
+
+- A receita apresentou **crescimento consistente ao longo dos últimos anos**
+- 62% dos clientes realizaram **apenas uma compra**
+- 78% dos clientes estão atualmente em **Churn**
+- 59% da receita está concentrada em **clientes de alto valor**
+
+Esses resultados indicam oportunidades relacionadas principalmente a retenção de clientes e aumento da recorrência de compras.
+
+
