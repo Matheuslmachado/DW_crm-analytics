@@ -18,7 +18,7 @@ Construir a **Single Source of Truth (SSOT)** -- a Fonte Única da Verdade -- pa
 > - SQL
 > - Google BigQuery (Standard SQL). 
 
-<img width="786" height="253" alt="Image" src="https://github.com/user-attachments/assets/46caad3b-907d-4caa-93f7-d09706c0b853" />
+<img width="786" height="253" alt="Image" src="https://github.com/user-attachments/assets/404fd115-a4f4-488f-9fdd-60451d8a02b2" />
 
 <b></b>
 ### Modelagem Dimencional
